@@ -17,7 +17,8 @@
 
 - ⚛ **React.js** برای ایجاد رابط کاربری تعاملی  
 - 🎨 **CSS** برای طراحی مدرن و زیبا  
-- 🔄 **React Hooks** برای مدیریت وضعیت  
+- 🔄 **React Hooks** برای مدیریت وضعیت
+- ⚡ **Vite** به‌عنوان ابزار ساخت و توسعه سریع
 
 ---
 
@@ -27,5 +28,5 @@
 2️⃣ سپس، مخزن را کلون کنید:  
 
 ```bash
-git clone https://github.com/your-username/tic-tac-toe.git
-cd tic-tac-toe
+git clone https://github.com/mhmdnateghi/tic-tac-toe-persian.git
+cd tic-tac-toe-persian
